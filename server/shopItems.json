@@ -1,0 +1,10 @@
+{
+    "items": [
+        { "id": "1", "title": "Игрушка Сеня", "price": "110", "count": "2",  "image_link": "https://sun1-17.userapi.com/impg/00kgZsxcpeyhtKP30lD6XpWcqWaPVu8gjG-y2w/lAOrUWcDFFc.jpg?size=0x179&crop=0.145,0,0.667,1&quality=95&sign=67760446813ed150cbf3d1fc52597595"},
+        { "id": "2", "title": "Игрушка Пинг", "price": "110", "count": "10", "image_link": "https://sun1-54.userapi.com/impg/mwHPD_KPcCXU1US1PT7HkUve8jN0YNumuyLzkg/B11Flseq1Zc.jpg?size=0x179&crop=0.024,0,0.953,1&quality=95&sign=d41959f867f5192558a9e0d1896fb1f9" },
+        { "id": "3", "title": "Игрушка Персик", "price": "85", "count": "4", "image_link": "https://sun1-28.userapi.com/impg/HfnDD4DSz-22D4m5CFneyXKrg_Di9qe_9hFR9Q/f_-pgQqGSFE.jpg?size=0x179&crop=0.094,0,0.667,1&quality=95&sign=264b6f3ef14c37fd3be378ce491ee120" },
+        { "id": "4", "title": "Игрушка Спаркс", "price": "120", "count": "2", "image_link": "https://sun1-25.userapi.com/impg/XQFY98mS7EdkpPxxd-sOebcDCCQ905f7ssGG7Q/1YWSLJUyyqY.jpg?size=0x179&crop=0.184,0.016,0.651,0.976&quality=95&sign=34a55da70bdafeeb4c46e302fc135b83" },
+        { "id": "5", "title": "Рюкзак", "price": "10000000", "count": "0", "image_link": "https://sun9-6.userapi.com/impg/fnJcVLUqdJN69DdPJp2LcqVOgFqanj-FMl6d5Q/PelRz4sLocQ.jpg?size=480x714&quality=95&sign=63c8574ec21801ef8c1a7c5d6494d066&type=album" },
+        { "id": "6", "title": "Капсула мини", "price": "280", "count": "1", "image_link": "https://sun1-47.userapi.com/impg/BbCkSpRrzfKCLflvkyDF1hm1ngbAgxy4KJJXDw/P-Rk7Gpfwqc.jpg?size=0x179&crop=0.118,0.047,0.765,0.796&quality=95&sign=491813a57134c5c7b0fdef862638bb23" }
+    ]
+}
